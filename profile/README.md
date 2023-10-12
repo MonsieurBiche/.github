@@ -38,7 +38,7 @@
     </a>
 </p>
 
-## []() Introduction 🤝 _« Salut, ça biche ? »_
+## []() Introduction 🤝 <small>_« Salut, ça biche ? »_</small>
 <!-- Notre version à nous du « Salut, ça farte ? » de Brice de Nice (2005) -->
 
 🏆 **Les clés de la réussite** ? Selon nous, ce sont la **flexibilité et la réactivité** !
@@ -49,14 +49,14 @@
 
 💪 Notre projet, c'est avant tout de mettre **des entrepreneurs au service d'autres entrepreneurs**, afin de **partager et construire ensemble**. Nous proposons d'ailleurs à la communauté Monsieur Biche des outils facilitant le travail au quotidien, ainsi que des évènements exclusifs !
 
-## []() Nos objectifs 🕵️ _« Votre mission, si toutefois vous l'acceptez... »_
+## []() Nos objectifs 🕵️ <small>_« Votre mission, si toutefois vous l'acceptez... »_</small>
 <!-- Mission Impossible (1996-2024) -->
 
 <p align='center'>
     <img src='/images/monsieurbiche-goal-fr.png' width="750px" alt='Graphique présentant les missions de Monsieur Biche : libérer votre créativité, repousser les frontières du possible, assurer la réussite de vos projets' />
 </p>
 
-## []() Nous rejoindre 🪳 _« Would you like to know more ? »_ 
+## []() Nous rejoindre 🪳 <small>_« Would you like to know more ? »_</small> 
 <!-- Starship Troopers (1997) -->
 
 🌍 **Visitez notre [site internet](https://monsieur-biche.fr/)** pour en savoir plus sur nous  
@@ -71,8 +71,10 @@
 </p>
 
 <p align='center'>
-    <a href='https://www.youtube.com/watch?v=t9XRnbuOyHc'>🏐🦌</a>
-    <!-- RRRrrr (2003) -->
+    <small>
+        <a href='https://www.youtube.com/watch?v=t9XRnbuOyHc'>🏐🦌</a>
+        <!-- RRRrrr (2003) -->
+    </small>
 </p>
 
 <!-- EOF -->
