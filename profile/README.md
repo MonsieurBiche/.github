@@ -5,6 +5,22 @@
     <img src='/images/monsieurbiche-banner-fr.png' alt='TODO image alt text' />
 </p>
 
+<!-- Social & useful links -->
+<p align='center'>
+    <!-- LinkedIn -->
+    <a href='https://www.linkedin.com/monsieur-biche' title='Page LinkedIn de Monsieur Biche'>
+        <img src="https://img.shields.io/badge/LinkedIn-1971c2?style=for-the-badge&logo=linkedin&logoColor=white" alt='Badge LinkedIn' />
+    </a>
+    <!-- Website -->
+    <a href='https://monsieur-biche.fr' title='Site internet de Monsieur Biche'>
+        <img src="https://img.shields.io/badge/Site internet-9c36b5?style=for-the-badge&logo=InternetExplorer&logoColor=white" alt='Badge Internet Explorer' />
+    </a>
+    <!-- English version -->
+    <a href='https://github.com/MonsieurBiche/.github/blob/main/profile/README.en-US.md' title='Display this page in English'>
+        <img src="https://img.shields.io/badge/Read%20this%20page%20in%20english-2f9e44?style=for-the-badge&logo=GoogleTranslate&logoColor=white" alt='Badge Google Translate' />
+    </a>
+</p>
+
 ## []() Introduction 🦌 _« Salut, ça biche ? »_
 <!-- Notre version à nous du « Salut, ça farte ? » de Brice de Nice (2005) -->
 
