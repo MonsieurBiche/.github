@@ -1,10 +1,12 @@
 
 <h3 align="center">🦌 Monsieur Biche 🦌</h3>
 
-<img src="http://readme-typing-svg.herokuapp.com?font=Gloria+Hallelujah&duration=2000&pause=1000&color=9C36B5&center=true&random=false&width=435&lines=Accompagnement+sur+mesure;Direction+Technique+as+a+Service;CTO+as+a+Service;Construire+des+relations+de+confiance;Selon+vos+besoins%2C+%C3%A0+votre+rythme" alt="Affichage de texte dynamique présentant les concepts de Monsieur Biche" />
+<p align='center'>
+    <img src="http://readme-typing-svg.herokuapp.com?font=Gloria+Hallelujah&duration=2000&pause=1000&color=9C36B5&center=true&random=false&width=435&lines=Accompagnement+sur+mesure;Direction+Technique+as+a+Service;CTO+as+a+Service;Construire+des+relations+de+confiance;Selon+vos+besoins%2C+%C3%A0+votre+rythme" alt="Affichage de texte dynamique présentant les concepts de Monsieur Biche" />
+</p>
 
 <p align='center'>
-    <img src='../images/monsieurbiche-banner-fr.png' alt='Bannière présentant les activités de Monsieur Biche : Expertise, Accompagnement, Audio et conseil' />
+    <img src='/images/monsieurbiche-banner-fr.png' alt='Bannière présentant les activités de Monsieur Biche : Expertise, Accompagnement, Audio et conseil' />
 </p>
 
 <!-- Social & useful links -->
@@ -38,7 +40,7 @@
 <!-- Mission Impossible (1996-2024) -->
 
 <p align='center'>
-    <img src='../images/monsieurbiche-goal-fr.png' width="750px" alt='Graphique présentant les missions de Monsieur Biche : libérer votre créativité, repousser les frontières du possible, assurer la réussite de vos projets' />
+    <img src='/images/monsieurbiche-goal-fr.png' width="750px" alt='Graphique présentant les missions de Monsieur Biche : libérer votre créativité, repousser les frontières du possible, assurer la réussite de vos projets' />
 </p>
 
 ## []() Nous rejoindre 🪳 _« Would you like to know more ? »_ 
@@ -49,7 +51,7 @@
 ☎️ Vous y trouverez également **tous [les moyens de nous contacter](https://monsieur-biche.fr/join-us)**  
 
 <p align='center'>
-    <img src='../images/skyline-lyon-france.png' width='800px' alt='Skyline représentant la ville de Lyon avec ses principaux édifices' />
+    <img src='/images/skyline-lyon-france.png' width='800px' alt='Skyline représentant la ville de Lyon avec ses principaux édifices' />
 </p>
 
 <p align='center'>
