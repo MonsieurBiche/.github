@@ -1,8 +1,8 @@
 
-<h3 align="center">🦌 Monsieur Biche 🦌</h3>
+<h3 align="center"><a href='https://monsieur-biche.fr' title='Cliquez pour accéder au site internet de Monsieur Biche'>🦌 Monsieur Biche 🦌</a></h3>
 
 <p align='center'>
-    <img src="http://readme-typing-svg.herokuapp.com?font=Gloria+Hallelujah&duration=2000&pause=1000&color=9C36B5&center=true&random=false&width=435&lines=Accompagnement+sur+mesure;Direction+Technique+as+a+Service;CTO+as+a+Service;Construire+des+relations+de+confiance;Selon+vos+besoins%2C+%C3%A0+votre+rythme" alt="Affichage de texte dynamique présentant les concepts de Monsieur Biche" />
+    <img src="http://readme-typing-svg.herokuapp.com?font=Gloria+Hallelujah&size=22&duration=2000&pause=1000&color=2f9e44&center=true&random=false&width=500&lines=Accompagnement+sur+mesure;Direction+Technique+as+a+Service;CTO+as+a+Service;Construire+des+relations+de+confiance;Selon+vos+besoins%2C+%C3%A0+votre+rythme" alt="Affichage de texte dynamique présentant les concepts de Monsieur Biche" />
 </p>
 
 <p align='center'>
@@ -25,7 +25,7 @@
     </a>
 </p>
 
-## []() Introduction 🤝 « Salut, ça biche ? »_
+## []() Introduction 🤝 _« Salut, ça biche ? »_
 <!-- Notre version à nous du « Salut, ça farte ? » de Brice de Nice (2005) -->
 
 🏆 **Les clés de la réussite** ? Selon nous, ce sont la **flexibilité et la réactivité** !
