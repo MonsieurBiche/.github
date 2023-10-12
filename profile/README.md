@@ -1,8 +1,21 @@
 
-<h3 align="center"><a href='https://monsieur-biche.fr' title='Cliquez pour accéder au site internet de Monsieur Biche'>🦌 Monsieur Biche 🦌</a></h3>
+<h3 align="center">
+    <a href='https://monsieur-biche.fr' title='Cliquez pour accéder au site internet de Monsieur Biche'>
+        🦌 Monsieur Biche 🦌
+    </a>
+</h3>
 
 <p align='center'>
     <img src="http://readme-typing-svg.herokuapp.com?font=Gloria+Hallelujah&size=22&duration=2000&pause=1000&color=2f9e44&center=true&random=false&width=500&lines=Accompagnement+sur+mesure;Direction+Technique+as+a+Service;CTO+as+a+Service;Construire+des+relations+de+confiance;Selon+vos+besoins%2C+%C3%A0+votre+rythme" alt="Affichage de texte dynamique présentant les concepts de Monsieur Biche" />
+</p>
+
+<!-- English version -->
+<p align='center'>
+    <a href='https://github.com/MonsieurBiche/.github/blob/main/profile/README.en-US.md' title='Display this page in English'>
+        <!-- <img src='https://flagicons.lipis.dev/flags/4x3/gb.svg' width='30px' /> -->
+        <img src="https://img.shields.io/badge/Read%20this%20page%20in%20english-1971c2?style=for-the-badge&logo=GoogleTranslate&logoColor=white" alt='Badge Google Translate' />
+        <!-- <img src='https://flagicons.lipis.dev/flags/4x3/us.svg' width='30px' /> -->
+    </a>
 </p>
 
 <p align='center'>
@@ -17,11 +30,7 @@
     </a>
     <!-- Website -->
     <a href='https://monsieur-biche.fr' title='Site internet de Monsieur Biche'>
-        <img src="https://img.shields.io/badge/Site internet-9c36b5?style=for-the-badge&logo=InternetExplorer&logoColor=white" alt='Badge Internet Explorer' />
-    </a>
-    <!-- English version -->
-    <a href='https://github.com/MonsieurBiche/.github/blob/main/profile/README.en-US.md' title='Display this page in English'>
-        <img src="https://img.shields.io/badge/Read%20this%20page%20in%20english-2f9e44?style=for-the-badge&logo=GoogleTranslate&logoColor=white" alt='Badge Google Translate' />
+        <img src="https://img.shields.io/badge/Site%20internet-9c36b5?style=for-the-badge&logo=InternetExplorer&logoColor=white" alt='Badge Internet Explorer' />
     </a>
     <!-- Contact -->
     <a href='https://monsieur-biche.fr/join-us' title='Contacter Monsieur Biche'>
@@ -55,7 +64,9 @@
 ☎️ Vous y trouverez également **tous [les moyens de nous contacter](https://monsieur-biche.fr/join-us)**  
 
 <p align='center'>
-    <img src='/images/skyline-lyon-france.png' width='800px' alt='Skyline représentant la ville de Lyon avec ses principaux édifices' />
+    <source media="(prefers-color-scheme: dark)" srcset="/skyline-lyon-france-whiteborder.png">
+    <source media="(prefers-color-scheme: light)" srcset="/skyline-lyon-france-noborder.png">
+    <img src='/skyline-lyon-france-noborder.png' width='800px' alt='Skyline représentant la ville de Lyon avec ses principaux édifices' />
 </p>
 
 <p align='center'>
