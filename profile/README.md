@@ -23,6 +23,10 @@
     <a href='https://github.com/MonsieurBiche/.github/blob/main/profile/README.en-US.md' title='Display this page in English'>
         <img src="https://img.shields.io/badge/Read%20this%20page%20in%20english-2f9e44?style=for-the-badge&logo=GoogleTranslate&logoColor=white" alt='Badge Google Translate' />
     </a>
+    <!-- Contact -->
+    <a href='https://monsieur-biche.fr/join-us' title='Contacter Monsieur Biche'>
+        <img src="https://img.shields.io/badge/Nous%20contacter-e8590c?style=for-the-badge&logo=minutemailer&logoColor=white" alt='Badge Minutemailer' />
+    </a>
 </p>
 
 ## []() Introduction 🤝 _« Salut, ça biche ? »_
