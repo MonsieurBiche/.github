@@ -1,6 +1,8 @@
 # Monsieur Biche 🤝 _Accompagnement sur mesure_ 
 
-![image description](../images/monsieurbiche-banner-fr.png)
+<p align='center'>
+    <img src='/images/monsieurbiche-banner-fr.png' alt='TODO image alt text' />
+</p>
 
 ## Introduction 🦌 _« Salut, ça biche ? »_
 <!-- Notre version à nous du « Salut, ça farte ? » de Brice de Nice (2005) -->
@@ -17,18 +19,21 @@
 <!-- Mission Impossible (1996-2024) -->
 
 <p align='center'>
-    <img src='../images/monsieurbiche-goal-fr.png' width="750px" alt='TODO image alt text' />
+    <img src='/images/monsieurbiche-goal-fr.png' width="750px" alt='TODO image alt text' />
 </p>
 
 ## Nous rejoindre 🪳 _« Would you like to know more ? »_ 
 <!-- Starship Troopers (1997) -->
 
-🌍 **Visitez notre [site internet](https://monsieur-biche.fr/)** pour en savoir plus sur nous !  
+🌍 **Visitez notre [site internet](https://monsieur-biche.fr/)** pour en savoir plus sur nous  
   
 ☎️ Vous y trouverez également **tous [les moyens de nous contacter](https://monsieur-biche.fr/join-us)**  
 
+
+![image description](/images/skyline-lyon-france.png)
+
 <p align='center'>
-    <img src='../images/skyline-lyon-france.png' width='800px' alt='TODO image alt text' />
+    <img src='/images/skyline-lyon-france.png' width='800px' alt='TODO image alt text' />
 </p>
 
 <p align='center'>
