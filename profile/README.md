@@ -64,9 +64,10 @@
 ☎️ Vous y trouverez également **tous [les moyens de nous contacter](https://monsieur-biche.fr/join-us)**  
 
 <p align='center'>
-    <source media="(prefers-color-scheme: dark)" srcset="/images/skyline-lyon-france-whiteborder.png">
-    <source media="(prefers-color-scheme: light)" srcset="/images/skyline-lyon-france-noborder.png">
-    <img src='/images/skyline-lyon-france-noborder.png' width='800px' alt='Skyline représentant la ville de Lyon avec ses principaux édifices' />
+    <!-- Not useful until https://github.com/github/markup/issues/1583 is fixed -->
+    <!-- <source media="(prefers-color-scheme: dark)" srcset="/images/skyline-lyon-france-whiteborder.png"> -->
+    <!-- <source media="(prefers-color-scheme: light)" srcset="/images/skyline-lyon-france-noborder.png"> -->
+    <img src='/images/skyline-lyon-france-whiteborder.png' width='800px' alt='Skyline représentant la ville de Lyon avec ses principaux édifices' />
 </p>
 
 <p align='center'>
