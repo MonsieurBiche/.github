@@ -5,9 +5,32 @@
     </a>
 </h3>
 
+<!--
+Accompagnement sur mesure
+Direction Technique as a Service
+CTO as a Service
+Construire des relations de confiance
+Selon vos besoins, à votre rythme
+-->
+
 <p align='center'>
     <img src="http://readme-typing-svg.herokuapp.com?font=Gloria+Hallelujah&size=22&duration=2000&pause=1000&color=2f9e44&center=true&random=false&width=500&lines=Accompagnement+sur+mesure;Direction+Technique+as+a+Service;CTO+as+a+Service;Construire+des+relations+de+confiance;Selon+vos+besoins%2C+%C3%A0+votre+rythme" alt="Affichage de texte dynamique présentant les concepts de Monsieur Biche" />
 </p>
+
+<!--
+Architecture
+Conception
+Développement
+Maquettes
+UX/UI
+Proof of Concept
+Gestion de projet
+Assistance à Maîtrise d'Ouvrage
+Recrutement
+Infrastructure
+DevOps
+Cybersécurité
+-->
 
 <!-- English version -->
 <p align='center'>
@@ -64,10 +87,10 @@
 ☎️ Vous y trouverez également **tous [les moyens de nous contacter](https://monsieur-biche.fr/join-us)**  
 
 <p align='center'>
-    <!-- Not useful until https://github.com/github/markup/issues/1583 is fixed -->
-    <!-- <source media="(prefers-color-scheme: dark)" srcset="/images/skyline-lyon-france-whiteborder.png"> -->
-    <!-- <source media="(prefers-color-scheme: light)" srcset="/images/skyline-lyon-france-noborder.png"> -->
-    <img src='/images/skyline-lyon-france-whiteborder.png' width='800px' alt='Skyline représentant la ville de Lyon avec ses principaux édifices' />
+    <!-- WARNING @see https://github.com/github/markup/issues/1583 -->
+    <source media="(prefers-color-scheme: dark)" srcset="/images/skyline-lyon-france-white.svg">
+    <source media="(prefers-color-scheme: light)" srcset="/images/skyline-lyon-france-black.svg">
+    <img src='/images/skyline-lyon-france-grey.svg' width='800px' alt='Skyline représentant la ville de Lyon avec ses principaux édifices' />
 </p>
 
 <p align='center'>
