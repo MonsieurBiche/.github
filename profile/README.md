@@ -13,7 +13,7 @@
 <p align='center'>
     <a href='https://github.com/MonsieurBiche/.github/blob/main/profile/README.en-US.md' title='Display this page in English'>
         <!-- <img src='https://flagicons.lipis.dev/flags/4x3/gb.svg' width='30px' /> -->
-        <img src="https://img.shields.io/badge/Read%20this%20page%20in%20english-1971c2?style=for-the-badge&logo=GoogleTranslate&logoColor=white" alt='Badge Google Translate' />
+        <img src="https://img.shields.io/badge/Read_this_page_in_english-1971c2?style=for-the-badge&logo=GoogleTranslate&logoColor=white" alt='Badge Google Translate' />
         <!-- <img src='https://flagicons.lipis.dev/flags/4x3/us.svg' width='30px' /> -->
     </a>
 </p>
@@ -30,11 +30,11 @@
     </a>
     <!-- Website -->
     <a href='https://monsieur-biche.fr' title='Site internet de Monsieur Biche'>
-        <img src="https://img.shields.io/badge/Site%20internet-9c36b5?style=for-the-badge&logo=InternetExplorer&logoColor=white" alt='Badge Internet Explorer' />
+        <img src="https://img.shields.io/badge/Site_internet-9c36b5?style=for-the-badge&logo=InternetExplorer&logoColor=white" alt='Badge Internet Explorer' />
     </a>
     <!-- Contact -->
     <a href='https://monsieur-biche.fr/join-us' title='Contacter Monsieur Biche'>
-        <img src="https://img.shields.io/badge/Nous%20contacter-e8590c?style=for-the-badge&logo=minutemailer&logoColor=white" alt='Badge Minutemailer' />
+        <img src="https://img.shields.io/badge/Nous_contacter-e8590c?style=for-the-badge&logo=minutemailer&logoColor=white" alt='Badge Minutemailer' />
     </a>
 </p>
 
@@ -53,7 +53,7 @@
 <!-- Mission Impossible (1996-2024) -->
 
 <p align='center'>
-    <img src='/images/monsieurbiche-goal-fr.png' width="750px" alt='Graphique présentant les missions de Monsieur Biche : libérer votre créativité, repousser les frontières du possible, assurer la réussite de vos projets' />
+    <img src='/images/monsieurbiche-goal-fr.png' width="500px" alt='Graphique présentant les missions de Monsieur Biche : libérer votre créativité, repousser les frontières du possible, assurer la réussite de vos projets' />
 </p>
 
 ## []() Nous rejoindre 🪳 <small>_« Would you like to know more ? »_</small> 
