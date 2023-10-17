@@ -86,11 +86,27 @@ Cybersécurité
   
 ☎️ Vous y trouverez également **tous [les moyens de nous contacter](https://monsieur-biche.fr/join-us)**  
 
-<p align='center'>
-    <!-- WARNING @see https://github.com/github/markup/issues/1583 -->
+<!-- <p align='center'>
     <source media="(prefers-color-scheme: dark)" srcset="/images/skyline-lyon-france-white.svg">
     <source media="(prefers-color-scheme: light)" srcset="/images/skyline-lyon-france-black.svg">
     <img src='/images/skyline-lyon-france-grey.svg' width='800px' alt='Skyline représentant la ville de Lyon avec ses principaux édifices' />
+ -->
+
+<p align='center'>
+    <picture>
+        <!-- INFO @see https://github.com/stefanjudis/github-light-dark-image-example -->
+        <!-- WARNING @see https://github.com/github/markup/issues/1583 -->
+        <source media="(prefers-color-scheme: dark)" srcset="/images/skyline-lyon-france-white.svg">
+        <source media="(prefers-color-scheme: light)" srcset="/images/skyline-lyon-france-black.svg">
+        <img alt='Skyline représentant la ville de Lyon avec ses principaux édifices' width='800px' src="/images/skyline-lyon-france-grey.svg">
+    </picture>
+    <picture>
+        <!-- INFO @see https://github.com/stefanjudis/github-light-dark-image-example -->
+        <!-- WARNING @see https://github.com/github/markup/issues/1583 -->
+        <source media="(prefers-color-scheme: dark)" srcset="../images/skyline-lyon-france-white.svg">
+        <source media="(prefers-color-scheme: light)" srcset="../images/skyline-lyon-france-black.svg">
+        <img alt='Skyline représentant la ville de Lyon avec ses principaux édifices' width='800px' src="../images/skyline-lyon-france-grey.svg">
+    </picture>
 </p>
 
 <p align='center'>
