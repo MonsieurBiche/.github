@@ -1,4 +1,3 @@
-
 <h3 align="center">
     <a href='https://monsieur-biche.fr' title='Cliquez pour accéder au site internet de Monsieur Biche'>
         🦌 Monsieur Biche 🦌
@@ -9,28 +8,14 @@
 Accompagnement sur mesure
 Direction Technique as a Service
 CTO as a Service
-Construire des relations de confiance
-Selon vos besoins, à votre rythme
 -->
 
+<!-->
 <p align='center'>
     <img src="http://readme-typing-svg.herokuapp.com?font=Gloria+Hallelujah&size=22&duration=2000&pause=1000&color=2f9e44&center=true&random=false&width=500&lines=Accompagnement+sur+mesure;Direction+Technique+as+a+Service;CTO+as+a+Service;Construire+des+relations+de+confiance;Selon+vos+besoins%2C+%C3%A0+votre+rythme" alt="Affichage de texte dynamique présentant les concepts de Monsieur Biche" />
 </p>
-
-<!--
-Architecture
-Conception
-Développement
-Maquettes
-UX/UI
-Proof of Concept
-Gestion de projet
-Assistance à Maîtrise d'Ouvrage
-Recrutement
-Infrastructure
-DevOps
-Cybersécurité
 -->
+
 
 <!-- English version -->
 <p align='center'>
@@ -42,8 +27,23 @@ Cybersécurité
 </p>
 
 <p align='center'>
-    <img src='/images/monsieurbiche-banner-fr.png' alt='Bannière présentant les activités de Monsieur Biche : Expertise, Accompagnement, Audio et conseil' />
+    <img src='/images/monsieurbiche-banner-fr.svg' alt="Bannière présentant le logo et le slogan de Monsieur Biche, ainsi qu'un affichage de texte dynamique présentant les différents domaines sur lesquels nous intervenons" />
 </p>
+
+<!--
+Architectures techniques
+Conception d'applications
+Développement
+UX/UI & Maquettes
+Proof of Concept
+Gestion de projet
+Assistance à Maîtrise d'Ouvrage
+Recrutement
+Infrastructure
+DevOps
+Cybersécurité
+Intelligence artificielle
+-->
 
 <!-- Social & useful links -->
 <p align='center'>
