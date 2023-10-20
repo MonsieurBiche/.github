@@ -62,7 +62,7 @@ Intelligence artificielle
 
 🌱 Nous vous proposons un **accompagnement sur mesure dans la réalisation de vos projets**, qu'ils viennent de germer dans votre esprit ou qu'ils mûrissent depuis des années. 
 
-🧑‍🤝‍🧑Monsieur Biche, c'est **la puissance d'une communauté d'experts pluridisciplinaire** pour répondre aux problématiques des startups et entreprises innovantes.
+🧑‍🤝‍🧑 Monsieur Biche, c'est **la puissance d'une communauté d'experts pluridisciplinaire** pour répondre aux problématiques des startups et entreprises innovantes.
 
 💪 Notre projet, c'est avant tout de mettre **des entrepreneurs au service d'autres entrepreneurs**, afin de **partager et construire ensemble**. Nous proposons d'ailleurs à la communauté Monsieur Biche des outils facilitant le travail au quotidien, ainsi que des évènements exclusifs !
 
