@@ -2,20 +2,14 @@
     <a href='https://monsieur-biche.fr' title='Cliquez pour accéder au site internet de Monsieur Biche'>
         🦌 Monsieur Biche 🦌
     </a>
+    <!-- Accompagnement sur mesure - Direction Technique as a Service - CTO as a Service -->
 </h3>
 
 <!--
-Accompagnement sur mesure
-Direction Technique as a Service
-CTO as a Service
--->
-
-<!-->
 <p align='center'>
     <img src="http://readme-typing-svg.herokuapp.com?font=Gloria+Hallelujah&size=22&duration=2000&pause=1000&color=2f9e44&center=true&random=false&width=500&lines=Accompagnement+sur+mesure;Direction+Technique+as+a+Service;CTO+as+a+Service;Construire+des+relations+de+confiance;Selon+vos+besoins%2C+%C3%A0+votre+rythme" alt="Affichage de texte dynamique présentant les concepts de Monsieur Biche" />
 </p>
 -->
-
 
 <!-- English version -->
 <p align='center'>
