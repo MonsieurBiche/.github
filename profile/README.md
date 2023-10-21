@@ -45,10 +45,12 @@ Intelligence artificielle
     <a href='https://www.linkedin.com/monsieur-biche' title='Page LinkedIn de Monsieur Biche'>
         <img src="https://img.shields.io/badge/LinkedIn-1971c2?style=for-the-badge&logo=linkedin&logoColor=white" alt='Badge LinkedIn' />
     </a>
+    &nbsp;
     <!-- Website -->
     <a href='https://monsieur-biche.fr' title='Site internet de Monsieur Biche'>
         <img src="https://img.shields.io/badge/Site_internet-9c36b5?style=for-the-badge&logo=InternetExplorer&logoColor=white" alt='Badge Internet Explorer' />
     </a>
+    &nbsp;
     <!-- Contact -->
     <a href='https://monsieur-biche.fr/join-us' title='Contacter Monsieur Biche'>
         <img src="https://img.shields.io/badge/Nous_contacter-e8590c?style=for-the-badge&logo=minutemailer&logoColor=white" alt='Badge Minutemailer' />
@@ -62,7 +64,7 @@ Intelligence artificielle
 
 🌱 Nous vous proposons un **accompagnement sur mesure dans la réalisation de vos projets**, qu'ils viennent de germer dans votre esprit ou qu'ils mûrissent depuis des années. 
 
-🧑‍🤝‍🧑 Monsieur Biche, c'est **la puissance d'une communauté d'experts pluridisciplinaire** pour répondre aux problématiques des startups et entreprises innovantes.
+🤝 Monsieur Biche, c'est **la puissance d'une communauté d'experts pluridisciplinaire** pour répondre aux problématiques des startups et entreprises innovantes.
 
 💪 Notre projet, c'est avant tout de mettre **des entrepreneurs au service d'autres entrepreneurs**, afin de **partager et construire ensemble**. Nous proposons d'ailleurs à la communauté Monsieur Biche des outils facilitant le travail au quotidien, ainsi que des évènements exclusifs !
 
