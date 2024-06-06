@@ -42,7 +42,7 @@ Intelligence artificielle
 <!-- Social & useful links -->
 <p align='center'>
     <!-- LinkedIn -->
-    <a href='https://www.linkedin.com/monsieur-biche' title='Page LinkedIn de Monsieur Biche'>
+    <a href='https://linkedin.com/company/monsieur-biche' title='Page LinkedIn de Monsieur Biche'>
         <img src="https://img.shields.io/badge/LinkedIn-1971c2?style=for-the-badge&logo=linkedin&logoColor=white" alt='Badge LinkedIn' />
     </a>
     &nbsp;
